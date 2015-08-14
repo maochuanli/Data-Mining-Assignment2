@@ -1,5 +1,5 @@
 # Data-Mining-Assignment2
-Data Mining Assignment2 for Russel
+Data Mining Assignment2 for Dr Russel Pears
 
 This is a java project dependant on the weka.jar library to run the data mining algorithms on the Orange Dataset. 
 In the Data Mining class, assignment2 requires us to select a Data Set, and choose 3-5 suitable algorithms and run againt the DataSet.
